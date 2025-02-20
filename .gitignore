@@ -1,0 +1,40 @@
+# Bỏ qua tất cả các file trong thư mục build
+/target/
+/bin/
+/build/
+/out/
+
+# Bỏ qua file cấu hình local (ví dụ: application.properties)
+/src/main/resources/application.properties
+
+# Bỏ qua file cấu hình IDE
+/.settings/
+/.classpath
+/.project
+/.idea/
+/*.iml
+/*.ipr
+/*.iws
+
+# Bỏ qua file log
+*.log
+*.tmp
+
+# Bỏ qua file hệ thống
+.DS_Store
+Thumbs.db
+
+# Bỏ qua thư mục dependency (nếu có)
+/.mvn/
+/.gradle/
+
+# Bỏ qua file biên dịch
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Bỏ qua file môi trường
+.env
+*.env
