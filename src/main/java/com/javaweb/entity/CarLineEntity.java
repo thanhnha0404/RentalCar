@@ -2,7 +2,7 @@ package com.javaweb.entity;
 
 import java.util.List;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 
 @Entity

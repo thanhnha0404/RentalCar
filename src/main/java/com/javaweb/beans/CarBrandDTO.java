@@ -1,6 +1,8 @@
 package com.javaweb.beans;
 
 public class CarBrandDTO {
+	
+	
 	private int categoryID;
     private String name;
     private String description;

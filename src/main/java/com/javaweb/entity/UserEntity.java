@@ -3,7 +3,7 @@ package com.javaweb.entity;
 import java.util.Date;
 
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 
 @MappedSuperclass

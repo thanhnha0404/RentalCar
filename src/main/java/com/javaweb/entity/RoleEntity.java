@@ -1,6 +1,6 @@
 package com.javaweb.entity;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 import java.util.List;
 

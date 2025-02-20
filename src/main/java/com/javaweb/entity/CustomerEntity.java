@@ -1,6 +1,6 @@
 package com.javaweb.entity;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 @Entity
 public class CustomerEntity extends UserEntity {
